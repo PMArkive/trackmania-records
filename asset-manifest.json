@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/tmx-records/static/js/main.5f5da9b0.chunk.js",
-    "main.js.map": "/tmx-records/static/js/main.5f5da9b0.chunk.js.map",
+    "main.js": "/tmx-records/static/js/main.6e4b1538.chunk.js",
+    "main.js.map": "/tmx-records/static/js/main.6e4b1538.chunk.js.map",
     "runtime-main.js": "/tmx-records/static/js/runtime-main.9a5f96b4.js",
     "runtime-main.js.map": "/tmx-records/static/js/runtime-main.9a5f96b4.js.map",
-    "static/js/2.98dd4bb6.chunk.js": "/tmx-records/static/js/2.98dd4bb6.chunk.js",
-    "static/js/2.98dd4bb6.chunk.js.map": "/tmx-records/static/js/2.98dd4bb6.chunk.js.map",
+    "static/js/2.5c9a6edb.chunk.js": "/tmx-records/static/js/2.5c9a6edb.chunk.js",
+    "static/js/2.5c9a6edb.chunk.js.map": "/tmx-records/static/js/2.5c9a6edb.chunk.js.map",
     "index.html": "/tmx-records/index.html",
-    "precache-manifest.7af46c53d3f16f2be5ffe80e37f6459a.js": "/tmx-records/precache-manifest.7af46c53d3f16f2be5ffe80e37f6459a.js",
+    "precache-manifest.a9cfc2263e5444ee0c1a7724970da948.js": "/tmx-records/precache-manifest.a9cfc2263e5444ee0c1a7724970da948.js",
     "service-worker.js": "/tmx-records/service-worker.js",
-    "static/js/2.98dd4bb6.chunk.js.LICENSE.txt": "/tmx-records/static/js/2.98dd4bb6.chunk.js.LICENSE.txt"
+    "static/js/2.5c9a6edb.chunk.js.LICENSE.txt": "/tmx-records/static/js/2.5c9a6edb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9a5f96b4.js",
-    "static/js/2.98dd4bb6.chunk.js",
-    "static/js/main.5f5da9b0.chunk.js"
+    "static/js/2.5c9a6edb.chunk.js",
+    "static/js/main.6e4b1538.chunk.js"
   ]
 }
