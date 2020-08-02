@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/tmx-records/static/js/main.01ca14cd.chunk.js",
-    "main.js.map": "/tmx-records/static/js/main.01ca14cd.chunk.js.map",
-    "runtime-main.js": "/tmx-records/static/js/runtime-main.9a5f96b4.js",
-    "runtime-main.js.map": "/tmx-records/static/js/runtime-main.9a5f96b4.js.map",
-    "static/js/2.5c9a6edb.chunk.js": "/tmx-records/static/js/2.5c9a6edb.chunk.js",
-    "static/js/2.5c9a6edb.chunk.js.map": "/tmx-records/static/js/2.5c9a6edb.chunk.js.map",
-    "index.html": "/tmx-records/index.html",
-    "precache-manifest.bcd9907b001a4e09b491d9702b926f8e.js": "/tmx-records/precache-manifest.bcd9907b001a4e09b491d9702b926f8e.js",
-    "service-worker.js": "/tmx-records/service-worker.js",
-    "static/js/2.5c9a6edb.chunk.js.LICENSE.txt": "/tmx-records/static/js/2.5c9a6edb.chunk.js.LICENSE.txt"
+    "main.js": "/trackmania-records/static/js/main.4a2cb80b.chunk.js",
+    "main.js.map": "/trackmania-records/static/js/main.4a2cb80b.chunk.js.map",
+    "runtime-main.js": "/trackmania-records/static/js/runtime-main.c8386b17.js",
+    "runtime-main.js.map": "/trackmania-records/static/js/runtime-main.c8386b17.js.map",
+    "static/js/2.c88d1bb0.chunk.js": "/trackmania-records/static/js/2.c88d1bb0.chunk.js",
+    "static/js/2.c88d1bb0.chunk.js.map": "/trackmania-records/static/js/2.c88d1bb0.chunk.js.map",
+    "index.html": "/trackmania-records/index.html",
+    "precache-manifest.a45e35b8c5907d4e24035abd672999f5.js": "/trackmania-records/precache-manifest.a45e35b8c5907d4e24035abd672999f5.js",
+    "service-worker.js": "/trackmania-records/service-worker.js",
+    "static/js/2.c88d1bb0.chunk.js.LICENSE.txt": "/trackmania-records/static/js/2.c88d1bb0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a5f96b4.js",
-    "static/js/2.5c9a6edb.chunk.js",
-    "static/js/main.01ca14cd.chunk.js"
+    "static/js/runtime-main.c8386b17.js",
+    "static/js/2.c88d1bb0.chunk.js",
+    "static/js/main.4a2cb80b.chunk.js"
   ]
 }
