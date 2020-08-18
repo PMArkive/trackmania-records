@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/trackmania-records/precache-manifest.4093d6d9a508edd220acfe8fcff8a7df.js"
+  "/trackmania-records/precache-manifest.291091898851027714da5b8b1812a4db.js"
 );
 
 self.addEventListener('message', (event) => {
