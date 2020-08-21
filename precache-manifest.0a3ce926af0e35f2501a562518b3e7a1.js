@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09591f2d726527f5577147364f3cf5f1",
+    "revision": "64463de1592f1ebe9a64304fe6b86547",
     "url": "/trackmania-records/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/trackmania-records/static/js/2.f30e7683.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "95d8fd24d556ac96cb69",
-    "url": "/trackmania-records/static/js/main.a78756b5.chunk.js"
+    "revision": "6461f0eead4e8103d2e7",
+    "url": "/trackmania-records/static/js/main.e18f0763.chunk.js"
   },
   {
     "revision": "75ca9cd144a73aceb67c",
