@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/trackmania-records/static/js/main.83ccd69c.chunk.js",
-    "main.js.map": "/trackmania-records/static/js/main.83ccd69c.chunk.js.map",
+    "main.js": "/trackmania-records/static/js/main.76ab2190.chunk.js",
+    "main.js.map": "/trackmania-records/static/js/main.76ab2190.chunk.js.map",
     "runtime-main.js": "/trackmania-records/static/js/runtime-main.c8386b17.js",
     "runtime-main.js.map": "/trackmania-records/static/js/runtime-main.c8386b17.js.map",
-    "static/js/2.8c4bb6f8.chunk.js": "/trackmania-records/static/js/2.8c4bb6f8.chunk.js",
-    "static/js/2.8c4bb6f8.chunk.js.map": "/trackmania-records/static/js/2.8c4bb6f8.chunk.js.map",
+    "static/js/2.a7a2bede.chunk.js": "/trackmania-records/static/js/2.a7a2bede.chunk.js",
+    "static/js/2.a7a2bede.chunk.js.map": "/trackmania-records/static/js/2.a7a2bede.chunk.js.map",
     "index.html": "/trackmania-records/index.html",
-    "precache-manifest.3e7541ece1ee9a61ead63916cb3f751a.js": "/trackmania-records/precache-manifest.3e7541ece1ee9a61ead63916cb3f751a.js",
+    "precache-manifest.336e8d371eb823ecfef72ed118fe7cb6.js": "/trackmania-records/precache-manifest.336e8d371eb823ecfef72ed118fe7cb6.js",
     "service-worker.js": "/trackmania-records/service-worker.js",
-    "static/js/2.8c4bb6f8.chunk.js.LICENSE.txt": "/trackmania-records/static/js/2.8c4bb6f8.chunk.js.LICENSE.txt"
+    "static/js/2.a7a2bede.chunk.js.LICENSE.txt": "/trackmania-records/static/js/2.a7a2bede.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c8386b17.js",
-    "static/js/2.8c4bb6f8.chunk.js",
-    "static/js/main.83ccd69c.chunk.js"
+    "static/js/2.a7a2bede.chunk.js",
+    "static/js/main.76ab2190.chunk.js"
   ]
 }
