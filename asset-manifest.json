@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/trackmania-records/static/js/main.b3ac964e.chunk.js",
-    "main.js.map": "/trackmania-records/static/js/main.b3ac964e.chunk.js.map",
+    "main.js": "/trackmania-records/static/js/main.fe46727f.chunk.js",
+    "main.js.map": "/trackmania-records/static/js/main.fe46727f.chunk.js.map",
     "runtime-main.js": "/trackmania-records/static/js/runtime-main.0c656f83.js",
     "runtime-main.js.map": "/trackmania-records/static/js/runtime-main.0c656f83.js.map",
     "static/js/2.75b9d11c.chunk.js": "/trackmania-records/static/js/2.75b9d11c.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.0c656f83.js",
     "static/js/2.75b9d11c.chunk.js",
-    "static/js/main.b3ac964e.chunk.js"
+    "static/js/main.fe46727f.chunk.js"
   ]
 }
