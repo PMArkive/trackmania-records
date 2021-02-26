@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/trackmania-records/static/js/main.f9d7c025.chunk.js",
-    "main.js.map": "/trackmania-records/static/js/main.f9d7c025.chunk.js.map",
+    "main.js": "/trackmania-records/static/js/main.ce8f5594.chunk.js",
+    "main.js.map": "/trackmania-records/static/js/main.ce8f5594.chunk.js.map",
     "runtime-main.js": "/trackmania-records/static/js/runtime-main.0c656f83.js",
     "runtime-main.js.map": "/trackmania-records/static/js/runtime-main.0c656f83.js.map",
-    "static/js/2.75b9d11c.chunk.js": "/trackmania-records/static/js/2.75b9d11c.chunk.js",
-    "static/js/2.75b9d11c.chunk.js.map": "/trackmania-records/static/js/2.75b9d11c.chunk.js.map",
+    "static/js/2.d7f97791.chunk.js": "/trackmania-records/static/js/2.d7f97791.chunk.js",
+    "static/js/2.d7f97791.chunk.js.map": "/trackmania-records/static/js/2.d7f97791.chunk.js.map",
     "index.html": "/trackmania-records/index.html",
-    "static/js/2.75b9d11c.chunk.js.LICENSE.txt": "/trackmania-records/static/js/2.75b9d11c.chunk.js.LICENSE.txt"
+    "static/js/2.d7f97791.chunk.js.LICENSE.txt": "/trackmania-records/static/js/2.d7f97791.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0c656f83.js",
-    "static/js/2.75b9d11c.chunk.js",
-    "static/js/main.f9d7c025.chunk.js"
+    "static/js/2.d7f97791.chunk.js",
+    "static/js/main.ce8f5594.chunk.js"
   ]
 }
